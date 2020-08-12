@@ -5,10 +5,14 @@
 2. ML try to solve: "During Pandemic, whether a user will churn basing on user profile data and last 30 days training history data."
 
 ## Data Assumptions
-users' workout history data from 2017-2020;
-1 user can finish multiple workout everyday;
-1 workout includes several excercisse, excercise includes multiple sets, user can choose different reps and weights for each set;
-Only US users. (covid-19 situation, globally different start time);
+users' workout history data from 2017-2020
+
+1 user can finish multiple workout everyday
+
+1 workout includes several excercisse, excercise includes multiple sets, user can choose different reps and weights for each set
+
+Only US users. (covid-19 situation, globally different start time)
+
 Payments are mostly monthly. (ignore yearly subscription) 
 
 ## Data dictionary:
