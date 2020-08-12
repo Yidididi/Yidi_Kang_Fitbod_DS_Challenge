@@ -6,9 +6,9 @@
 
 ## Data Assumptions
 users' workout history data from 2017-2020;
-1 user can finish multiple workout everyday.
-1 workout includes several excercisse, excercise includes multiple sets, user can choose different reps and weights for each set.
-Only US users. (covid-19 situation, globally different start time)
+1 user can finish multiple workout everyday;
+1 workout includes several excercisse, excercise includes multiple sets, user can choose different reps and weights for each set;
+Only US users. (covid-19 situation, globally different start time);
 Payments are mostly monthly. (ignore yearly subscription) 
 
 ## Data dictionary:
@@ -21,6 +21,8 @@ Payments are mostly monthly. (ignore yearly subscription)
 
 ## Methods used:
 Data visualization
+
 Bayesian Statistics
+
 Machine Learning
 
